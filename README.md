@@ -1,4 +1,4 @@
-# 42-libft 125/125
+# 42-libft 125/100
 ## Mandatory
 	ft_isalpha
 	ft_is_digit
