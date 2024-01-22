@@ -1,5 +1,5 @@
 # 42-libft 125/100
-![Logo-libft](./image/libftm.png)
+![badge-libft](./badge/libftm.png)
 ## Mandatory
 	ft_isalpha
 	ft_is_digit
