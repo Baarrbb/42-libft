@@ -1,5 +1,6 @@
 <center> # 42-libft 125/100 </center>
 ![badge-libft](./badge/libftm.png)
+
 ## Mandatory
 	ft_isalpha
 	ft_is_digit
