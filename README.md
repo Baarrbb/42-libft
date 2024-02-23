@@ -1,5 +1,7 @@
-<center> # 42-libft 125/100 </center>
+<p align="center"> 
+# 42-libft 125/100
 ![badge-libft](./badge/libftm.png)
+</p>
 
 ## Mandatory
 	ft_isalpha
