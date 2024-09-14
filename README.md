@@ -5,6 +5,10 @@
   <img src="./badge/libftm.png" alt="badge-libft">
 </div>
 
+##
+## Purpose
+
+Coding a C library that we will use during the cursus. Goals are to recode functions that already exist, with the same behavior, with a limited number of functions that can be used (`malloc`, `free` and `write`).
 
 ## Mandatory
 	ft_isalpha
@@ -52,3 +56,11 @@
 	ft_lstclear
 	ft_lstiter
 	ft_lstmap
+
+## Usage
+
+### Mandatory
+	make
+
+### Bonus
+	make bonus
